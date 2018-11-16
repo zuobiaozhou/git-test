@@ -8,7 +8,7 @@ public class FirstClass {
         System.out.println("Hello 坐标轴");
         System.out.println("Hello 坐标轴");
         System.out.println("Hello 坐标轴");
-        //hello test
+        //hello test two three
     }
 
     public void test(){
